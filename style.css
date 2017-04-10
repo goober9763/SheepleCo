@@ -1,0 +1,19 @@
+h1 {
+	color: #fff;
+	font-size: 45px;
+	font-family: 'futura'
+}
+
+
+h2 {
+	color: #000;
+	font-size: 12px;
+	font-family: 'futura';
+}
+
+<!--
+A:link { COLOR: black; TEXT-DECORATION: none; font-weight: normal }
+A:visited { COLOR: black; TEXT-DECORATION: none; font-weight: normal }
+A:active { COLOR: black; TEXT-DECORATION: none }
+A:hover { COLOR: #d02120; TEXT-DECORATION: none; font-weight: none }
+-->
