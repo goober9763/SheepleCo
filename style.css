@@ -10,7 +10,10 @@ h2 {
 	font-size: 12px;
 	font-family: 'futura';
 }
-
+body{
+	 background-image: url("bg.jpg");
+    background-color: #ffffff;
+}
 <!--
 A:link { COLOR: black; TEXT-DECORATION: none; font-weight: normal }
 A:visited { COLOR: black; TEXT-DECORATION: none; font-weight: normal }
