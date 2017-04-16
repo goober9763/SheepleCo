@@ -11,6 +11,11 @@ h2 {
 	font-family: 'futura';
 }
 
+body{
+	background-image: url("paper.gif");
+    background-color: #ffffff;
+}
+
 <!--
 A:link { COLOR: black; TEXT-DECORATION: none; font-weight: normal }
 A:visited { COLOR: black; TEXT-DECORATION: none; font-weight: normal }
