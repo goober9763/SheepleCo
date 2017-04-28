@@ -1,3 +1,7 @@
+body {
+	background-image: url ("./resources/blacksheep.jpg");
+}
+
 h1 {
 	color: #fff;
 	font-size: 45px;
@@ -20,3 +24,7 @@ A:visited { COLOR: black; TEXT-DECORATION: none; font-weight: normal }
 A:active { COLOR: black; TEXT-DECORATION: none }
 A:hover { COLOR: #d02120; TEXT-DECORATION: none; font-weight: none }
 -->
+<<<<<<< Updated upstream
+=======
+/* Possible font: Roboto; */
+>>>>>>> Stashed changes
