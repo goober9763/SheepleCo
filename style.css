@@ -15,8 +15,12 @@ h2 {
 	font-family: 'futura';
 }
 body{
-	 background-image: url("./resources/bg.jpg");
+	background-image: url("./resources/bg.jpg");
     background-color: #ffffff;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 <!--
 A:link { COLOR: black; TEXT-DECORATION: none; font-weight: normal }
